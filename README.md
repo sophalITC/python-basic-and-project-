@@ -1,8 +1,8 @@
-# Basic Python Projects for Data Science
+# Basic Python Projects 
 
 ## Overview
 
-This repository contains a collection of introductory Python projects designed for first-year students at the Institute of Technology of Cambodia. These projects are crafted to provide students with foundational skills in Python programming, specifically tailored towards applications in data science.
+This repository contains a collection of introductory Python projects designed for first-year students at the Institute of Technology of Cambodia. These projects are crafted to provide students with foundational skills in Python programming, specifically tailored towards applications in IT and data science.
 
 ## Projects
 
@@ -27,6 +27,6 @@ This program assists users in tracking their daily habits and provides statistic
 ### 7. Personal Finance Tracker
 An application to help users manage their personal finances, track spending, income, and budget forecasts to improve financial health.
 
-### and more projects are display in the repository of 
+### and more projects are display in the [repository of Python Basic Project](https://github.com/sophalITC/python-basic-project-/tree/main)
 
 ### @copy; CHAN Sophal
