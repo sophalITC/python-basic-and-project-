@@ -27,6 +27,6 @@ This program assists users in tracking their daily habits and provides statistic
 ### 7. Personal Finance Tracker
 An application to help users manage their personal finances, track spending, income, and budget forecasts to improve financial health.
 
-### and more projects are display in the [repository of Python Basic Project](https://github.com/sophalITC/python-basic-project-/tree/main)
+### and more projects are presented in the [repository of Python Basic Project](https://github.com/sophalITC/python-basic-project-/tree/main)
 
 ### @copy; CHAN Sophal
